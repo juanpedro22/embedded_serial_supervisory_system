@@ -133,3 +133,6 @@ sethora 05/07/2025 15:30:00
 
 
 ---
+
+<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/3bf24a5c-10ef-40d4-a196-1402a609c611" />
+
